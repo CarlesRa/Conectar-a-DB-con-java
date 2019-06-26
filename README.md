@@ -1,5 +1,11 @@
 # Conectar-a-DB-con-java
 codigo para conectar a una base de datos utilizando java
+```
+Requisitos: 
+Tener instalado mysql.
+Descargar el driver jdbc para mysql e implementar el archivo .jar al build path del proyecto.
+```
+
 ```java
 try {
 	/*1. Conectamos a la base de datos
